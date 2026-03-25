@@ -34,6 +34,8 @@ One of the most important achievements of this project was that our team became 
 
 This distinction reflects the impact, originality, and technical effort behind our work.
 
+[Our Team's Profile](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/infotronx_2/).
+
 ## Why this project matters
 
 This project represents more than a website.  
