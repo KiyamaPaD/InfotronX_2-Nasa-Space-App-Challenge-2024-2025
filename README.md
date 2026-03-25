@@ -1,6 +1,7 @@
 # NASA Space Apps Challenge Project | InfotronX_2
 
 This repository contains the source code for our **NASA Space Apps Challenge** project, developed by **InfotronX_2**.
+
 I am publishing it on my GitHub as part of my portfolio, since I was the main contributor to the project and worked on most of the implementation.
 The project also reflects team collaboration during the season.
 
