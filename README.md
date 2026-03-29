@@ -57,7 +57,7 @@ The repository includes:
 - images and visual assets
 - 3D-related resources used in the project
 
-#Screenshots
+##Screenshots
 
 ![SolarSystem3DHTML](images/SolarSystem3DHTML.png)
 
